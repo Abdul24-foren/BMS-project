@@ -1,6 +1,5 @@
 
 <?php
-declare(strict_types=1);
 
 $db_host = getenv('DB_HOST') ?: '127.0.0.1';
 $db_name = getenv('DB_NAME') ?: 'emp_reg';
